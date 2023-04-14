@@ -1,5 +1,4 @@
-![logo](![logo](https://user-images.githubusercontent.com/117578064/231965033-a4e334ac-b293-4ee3-aaa0-34cd773f69f0.png)
-)
+![image](https://user-images.githubusercontent.com/117578064/231965495-234c9033-4bd0-4230-a365-e04279b82fae.png)
 <h1 align="center">Hi 👋, I'm Aadarsha Gautam</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"
